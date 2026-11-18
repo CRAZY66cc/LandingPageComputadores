@@ -1,0 +1,91 @@
+body { background-color: rgb(103, 201, 199);
+    color: rgb(0, 0, 0);
+
+}
+
+h1, h2, h3, h4, h5 {
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+section{
+    text-align: center;
+}
+
+header {
+    background-color: #1e3a5f;
+    color: white;
+    padding: 15px;
+}
+
+nav {
+    background-color: #1e3a5f;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 16px;
+}
+
+nav a:hover {
+    color: rgb(0, 255, 51);
+}
+
+b {
+    display: block;
+    text-align: center;
+    margin: 15px auto;
+}
+
+img {
+    display: block;
+    margin: 15px auto;
+    width: 320px;
+    height: 200px;
+    border-radius: 10px;
+     transition: 0.3s;
+}
+
+img:hover {
+    transform: scale(1.05);
+
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    width: 80%;
+}
+
+table a {
+    color: #1e3a5f;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+table a:hover {
+    color: #00f92a;
+    text-decoration: underline;
+}
+
+th {
+    background-color: #1e3a5f;
+    color: white;
+}
+
+
+
+#LOGIN {
+    text-align: center;
+}
+
+#REGISTRO {
+    text-align: center;
+}
